@@ -1,1 +1,1 @@
-This is a memmory puzzle game using pygame.
+This is a memory puzzle game using pygame.
